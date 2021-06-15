@@ -4,7 +4,7 @@ import json
 import pprint
 import time
 
-API_KEY = 'AIzaSyB5aQxkMgu-c6wmPQ_s8RO_Ks_YEYjC3YA'
+API_KEY = ''
 gmaps = googlemaps.Client(key = API_KEY)
 placeids = []
 radius = 5000
